@@ -8,6 +8,7 @@ __pycache__/
 /dist/
 /build/
 /node_modules/
+/src/ffmpeg/*.exe
 /*.spec
 
 # Virtual environment

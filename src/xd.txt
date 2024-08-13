@@ -1,0 +1,9 @@
+Traceback (most recent call last):
+  File "yt_downloader.py", line 69, in <module>
+  File "tkinter\__init__.py", line 2156, in wm_iconbitmap
+_tkinter.TclError: bitmap "C:\Users\Patryk\AppData\Local\Temp\_MEI91202\assets\icon.ico" not defined
+[PYI-10528:ERROR] Failed to execute script 'yt_downloader' due to unhandled exception!
+
+
+
+

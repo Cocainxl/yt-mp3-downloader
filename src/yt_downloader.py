@@ -64,10 +64,6 @@ root.geometry("500x300")
 root.resizable(False, False)
 root.configure(bg='#f0f0f0')
 
-# Ustawienie ikony
-icon_path = os.path.join(os.path.dirname(__file__), 'assets', 'icon.ico')
-root.iconbitmap(icon_path)
-
 tk.Label(root, text="Wklej link do filmu z YouTube:", bg='#f0f0f0').pack(pady=10)
 url_entry = tk.Entry(root, width=60)
 url_entry.pack(pady=5)
