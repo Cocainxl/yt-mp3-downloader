@@ -12,6 +12,26 @@ A simple and efficient YouTube to MP3 downloader application built with Python a
 - User-friendly interface with a progress bar.
 - Option to open the folder containing the downloaded file.
 
+## Releases
+
+You can download the pre-built executable for Windows from the latest release:
+
+[Download Latest Release](https://github.com/Cocainxl/yt-mp3-downloader/releases/tag/published)
+
+### How to Use the Executable
+
+1. **Download the Release:**
+   Click the link above to download the latest release of the application.
+
+2. **Extract the ZIP File:**
+   If the release is provided as a ZIP file, extract it to a folder of your choice.
+
+3. **Run the Application:**
+   Double-click the `yt_downloader.exe` file to run the application.
+
+4. **Start Downloading:**
+   Use the interface to paste the YouTube video URL, select a save path, and click "Download" to start the process.
+
 ## Prerequisites
 
 - Python 3.9 or later
