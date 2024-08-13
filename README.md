@@ -68,7 +68,6 @@ To build the executable from the source code, run the following command:
 
 ```bash
 py -m PyInstaller --onefile --add-data "src/ffmpeg;ffmpeg" --icon=assets/icon.ico --clean src/yt_downloader.py
-This command will generate a standalone executable in the dist directory.
 ```
 
 This command will generate a standalone executable in the dist directory.
